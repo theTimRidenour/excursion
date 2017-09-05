@@ -1,0 +1,34 @@
+body {
+  background-color: #000000;
+  font-family: verdana;
+  text-align: center;
+
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+#footer {
+  text-align: right;
+}
+
+.fs21 {
+  font-size: 21px;
+}
+
+.gray {
+  color: gray;
+}
+
+.links {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.subtitle {
+  font-weight: 300;
+  font-size: 42px;
+}
